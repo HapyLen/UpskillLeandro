@@ -1,0 +1,20 @@
+﻿@page
+@model UserMPA.Pages.CancelarADModel
+
+@{
+    ViewData["Title"] = "Cancelar Adesão";
+}
+
+<h2>Cancelar Adesão</h2>
+
+@if (!string.IsNullOrEmpty(Model.Mensagem))
+{
+    <p style="color:@(Model.Sucesso ? "green" : "red"); font-weight: bold;">
+        @Model.Mensagem
+    </p>
+}
+
+@if (!Model.Sucesso)
+{
+    <a href="/">Voltar para a Página Inicial</a>
+}

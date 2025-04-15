@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="6.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="LibADO">
+      <HintPath>..\..\LibADO\LibADO\bin\Debug\LibADO.dll</HintPath>
+    </Reference>
+    <Reference Include="LibDB">
+      <HintPath>..\..\LibADO\LibADO\bin\Debug\LibDB.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

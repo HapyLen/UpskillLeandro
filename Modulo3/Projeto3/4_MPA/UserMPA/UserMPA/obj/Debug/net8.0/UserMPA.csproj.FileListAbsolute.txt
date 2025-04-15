@@ -1,0 +1,254 @@
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\appsettings.json
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\UserMPA.staticwebassets.runtime.json
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\UserMPA.staticwebassets.endpoints.json
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\UserMPA.exe
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\UserMPA.deps.json
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\UserMPA.runtimeconfig.json
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\UserMPA.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\UserMPA.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\LibADO.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\LibADO.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.RazorAssemblyInfo.cache
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.RazorAssemblyInfo.cs
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.sourcelink.json
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\scopedcss\bundle\UserMPA.styles.css
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\scopedcss\projectbundle\UserMPA.bundle.scp.css
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets\msbuild.UserMPA.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets\msbuild.UserMPA.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets\msbuild.build.UserMPA.props
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserMPA.props
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserMPA.props
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.csproj.Up2Date
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\refint\UserMPA.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.genruntimeconfig.cache
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\ref\UserMPA.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.RazorAssemblyInfo.cache
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.RazorAssemblyInfo.cs
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.sourcelink.json
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\refint\UserMPA.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\appsettings.json
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\UserMPA.staticwebassets.runtime.json
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\UserMPA.staticwebassets.endpoints.json
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\UserMPA.exe
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\UserMPA.deps.json
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\UserMPA.runtimeconfig.json
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\UserMPA.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\UserMPA.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\LibADO.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\LibADO.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\scopedcss\bundle\UserMPA.styles.css
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\scopedcss\projectbundle\UserMPA.bundle.scp.css
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets\msbuild.UserMPA.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets\msbuild.UserMPA.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets\msbuild.build.UserMPA.props
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserMPA.props
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserMPA.props
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.csproj.Up2Date
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.genruntimeconfig.cache
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\ref\UserMPA.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\appsettings.json
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\UserMPA.staticwebassets.runtime.json
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\UserMPA.staticwebassets.endpoints.json
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\UserMPA.exe
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\UserMPA.deps.json
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\UserMPA.runtimeconfig.json
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\UserMPA.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\UserMPA.pdb
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\LibADO.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\LibADO.pdb
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.csproj.AssemblyReference.cache
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.AssemblyInfoInputs.cache
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.AssemblyInfo.cs
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.RazorAssemblyInfo.cache
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.RazorAssemblyInfo.cs
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.sourcelink.json
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\scopedcss\bundle\UserMPA.styles.css
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\scopedcss\projectbundle\UserMPA.bundle.scp.css
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets\msbuild.UserMPA.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets\msbuild.UserMPA.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets\msbuild.build.UserMPA.props
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserMPA.props
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserMPA.props
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.csproj.Up2Date
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\refint\UserMPA.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.pdb
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\UserMPA.genruntimeconfig.cache
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\obj\Debug\net8.0\ref\UserMPA.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\LibDB.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\UserMPA\UserMPA\bin\Debug\net8.0\LibADO.dll.config

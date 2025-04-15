@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biblioteca Virtual</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Biblioteca Virtual</h1>
+        <span id="welcomeUser" style="display: none;"></span>
+		<div id="menu-div" class="div div--menu">
+			<!-- CSS por tratar, nomes de classes/id têm de ser mudados -->
+			<span id="categoryButtons">
+				<button class="categoryButton" onclick="changeTab('reservas', null, 1)">Reservas</button>
+				<button class="categoryButton" onclick="changeTab('obras', null, 1)">Obras</button>
+				<button class="categoryButton" onclick="changeTab('nucleos', null, 1)">Núcleos</button>
+				<button class="categoryButton" onclick="changeTab('utilizadores', null, 1)">Gestão de Utilizadores</button>
+				<!-- <button class="categoryButton" onclick="changeTab('stats', null, 1)">Estatísticas</button> -->
+				<button onclick="logout()">Logout</button>
+			</span>
+		</div>
+    </header>
+	<!-- Main div -->
+	<div id="main-div" class="div div--main">
+		<!-- Modal de loading -->
+		<div id="loading-modal-div" class="div div--modal-loading">
+			<div id="loading-modal-content" class="div div--modal-content-loading">
+				<div class="loading-spinner"></div>
+				<div>Loading</div>
+			</div>
+		</div>
+		<!-- Modal de login -->
+		<div id="login-modal-div" class="div div--modal-login">
+			<div id="login-modal-content-div" class="div div--modal-content-login">
+				<p id="login-message" style="text-align: center; display: none; color:red">Login inválido!</p>
+				<form id="login-form" class="form form--login">
+					<label for="login-form-username-input" class="label label--login">Email:</label>
+					<input id="login-form-username-input" class="input input--login" type="email" required>
+					<div id="login-modal-password-div" class="div div--modal-login-password">
+						<label for="login-form-password-input" class="label label--login">Senha:</label>
+						<input id="login-form-password-input" class="input input--login" type="password" required>
+						<span id="login-modal-toggle-password" onclick="togglePassword()">👁️</span>
+					</div>
+					<button id="login-form-submit-button" type="submit">Entrar</button>
+				</form>
+			</div>
+		</div>
+		<!-- Modal do form -->
+		<div id="form-modal-div" class="div div--modal-form">
+			<div id="form-modal-content-div" class="div div--modal-content-form">
+				<span onclick="document.getElementById('form-modal-div').style.display = 'none';" class="close">&times;</span>
+				<div id="method-selector-div" class="div div--method-selector">
+				</div>
+				<form id="form-modal-form" class="form form--modal-form">
+				</form>
+			</div>
+		</div>
+		<!-- Div da opção escolhida -->
+		<div id="tab-div" class="div div--tab">
+			<h1 id="tab-title">Tab</h1>
+			<div id="search-div" class="div div--search">
+				<div id="search-box-div" class="div div--search-box">
+					<input id="search-box-input" type="text" placeholder="Pesquisar..." />
+					<button onclick="searchInput()">Search</button>
+				</div>
+				<button id="form-modal-button" onclick="showFormModal()">Action Form</button>
+			</div>
+			<div id="results-list-div" class="div div--results-list">
+			</div>
+			<div id="result-list-pagination-div" class="div div--result-list-pagination">
+			</div>
+		</div>
+	</div>
+    <script src="js/script.js"></script>
+    <script src="js/login.js"></script>
+    <script src="js/methods.js"></script>
+    <script src="js/form.js"></script>
+    <script src="js/tabs.js"></script>
+</body>
+</html>

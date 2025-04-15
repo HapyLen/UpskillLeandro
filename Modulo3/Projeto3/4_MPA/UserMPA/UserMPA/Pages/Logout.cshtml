@@ -1,0 +1,6 @@
+﻿@page
+@model LogoutModel
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+@{
+    var nomeUsuario = HttpContextAccessor.HttpContext?.Session.GetString("NomeUsuario");
+}

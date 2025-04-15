@@ -1,0 +1,48 @@
+﻿@page
+@model RequisitarModel
+@{
+    ViewData["Title"] = "Confirmar Requisição";
+}
+
+<h2>Confirmar Requisição</h2>
+
+@if (Model.ObrasNosNucleos != null && Model.ObrasNosNucleos.Count > 0)
+{
+    <div class="cartas-container">
+        @foreach (var obra in Model.ObrasNosNucleos)
+        {
+            <div class="card">
+                <img src="@obra["image_path"]" alt="@obra["nome_obra"]">
+                <div class="info-card">
+                    <h4>@obra["nome_obra"]</h4>
+                    <p><strong>Editora:</strong> @obra["editora"]</p>
+                    <p><strong>Núcleo:</strong> @obra["nome_nucleo"]</p>
+                    <p><strong>Quantidade Disponível:</strong> @obra["quantidade"]</p>
+
+                    <form method="post">
+                        <input type="hidden" name="pk_obra" value="@obra["pk_obra"]" />
+                        <input type="hidden" name="pk_leitor" value="@Model.PkLeitor" />
+                        <input type="hidden" name="pk_nucleo" value="@obra["pk_nucleo"]" />
+                        <button type="submit" class="btn-confirmar">Requisitar neste Núcleo</button>
+                    </form>
+                </div>
+            </div>
+        }
+    </div>
+
+
+}
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["ErrorMessage"]
+    </div>
+}
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+

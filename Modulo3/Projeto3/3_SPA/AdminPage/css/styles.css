@@ -1,0 +1,221 @@
+@import "login.css";
+@import "forms.css";
+@import "loading.css";
+@import "pagination.css";
+@import "tabs.css";
+
+@import "keyframes.css";
+
+body {
+	width: 100%;
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	background-image: url("../img/bg.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+header {
+	width: 100%;
+	background-color: #333;
+	color: white;
+	padding: 15px;
+	text-align: center;
+}
+
+.div--main {
+	display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+/* .div--form-input {
+  width: 100%;
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+} */
+
+/* Style for the form */
+
+
+/* Style for labels */
+
+/* input[type="text"],
+input[type="email"],
+input[type="password"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+} */
+
+/* _______________________________*/
+
+.close {
+	color: #aaa;
+	float: right;
+	font-size: 28px;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+#search {
+	text-align: center;
+	margin: 20px;
+}
+
+#lista-livros {
+	margin: 20px;
+	padding: 20px;
+	display: flex;
+	background: white;
+	border-radius: 5px;
+}
+
+.popup {
+	display: none;
+	position: fixed;
+	bottom: 20px;
+	left: 50%;
+	transform: translateX(-50%);
+	background-color: #333;
+	color: white;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+#overlay {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.7);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	z-index: 2;
+}
+
+.cartas-container {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 20px;
+	justify-content: center;
+	overflow-y: auto;
+	max-height: 80vh;
+	padding: 20px;
+}
+
+.card {
+	text-align: center;
+	border: 1px solid #e1e1e1;
+	background: white;
+	border-radius: 8px;
+	overflow: hidden;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+	transition: transform 0.2s;
+	width: 250px;
+}
+
+.card:hover {
+	transform: scale(1.05);
+}
+
+.card img {
+	width: 100%;
+	height: auto;
+	border-bottom: 1px solid #e1e1e1;
+}
+
+.info-card {
+	padding: 10px 20px;
+}
+
+.info-card h4 {
+	font-size: 18px;
+	font-weight: 700;
+	margin-bottom: 5px;
+}
+
+.info-card p {
+	font-size: 14px;
+	color: #666;
+	margin-bottom: 5px;
+}
+
+.info-card .preco span {
+	font-weight: 700;
+	font-size: 20px;
+	color: #e44e52;
+}
+
+.agregar-carrinho:hover {
+	background: linear-gradient(to right, #e44e52 0%, #741d51 100%);
+}
+
+.menu {
+	padding: 10px 0;
+	text-align: center;
+	width: 100%;
+	display: flex;
+	flex: 1;
+	justify-content: center;
+	gap: 20px;
+	/* top: 0; */
+	left: 0;
+}
+
+.menu a {
+	background-color: #333;
+	color: white;
+	text-decoration: none;
+	padding: 14px 20px;
+	display: inline-block;
+	border-radius: 15px;
+}
+
+.menu a:hover {
+	background-color: #575757;
+}
+
+.menu a.active::after {
+	content: "";
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 4px;
+	background-color: black;
+	box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.3); /* Glowing shadow effect */
+	border-radius: 2px;
+}
+
+/* Style for the surrounding div */
+
+/* Style for input fields */
+
+/* Style for the submit button */
+/* button[type="submit"] {
+  background-color: #007bff;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button[type="submit"]:hover {
+  background-color: #0056b3;
+} */

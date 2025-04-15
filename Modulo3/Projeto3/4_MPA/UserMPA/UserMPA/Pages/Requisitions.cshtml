@@ -1,0 +1,53 @@
+﻿@page
+@model UserMPA.Pages.RequisitionsModel
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minhas Requisições</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/styles2.css" /> 
+
+</head>
+<body>
+    <header>
+        <h1>Biblioteca Virtual</h1>
+    </header>
+
+    <section id="lista-livros">
+        <h2>Livros Requisitados</h2>
+
+        <div id="book-container" class="cartas-container">
+            @if (Model.ObrasRequisitadas.Any())
+            {
+                @foreach (var obra in Model.ObrasRequisitadas)
+                {
+                    <div class="card">
+                        <img src="~/images/@obra["fk_imagem"].ToString()" alt="@obra["nome_obra"]">
+                        <div class="info-card">
+                            <h4>@obra["nome_obra"]</h4>
+                            <p><strong>Núcleo:</strong> @obra["nome_nucleo"]</p>
+                            <p>
+                                <strong>Status de Entrega:</strong>
+                                <span class="status status-@obra["status_entrega"].ToString().Replace(' ', '-')">
+                                    @obra["status_entrega"]
+                                </span>
+                            </p>
+                        </div>
+                    </div>
+                }
+
+
+
+
+            }
+            else
+            {
+                <p>Nenhum livro requisitado.</p>
+            }
+        </div>
+    </section>
+</body>
+</html>

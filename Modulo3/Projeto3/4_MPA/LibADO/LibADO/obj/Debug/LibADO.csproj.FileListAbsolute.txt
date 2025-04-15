@@ -1,0 +1,281 @@
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\obj\Debug\LibADO.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\obj\Debug\LibADO.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\LibADO.dll.config
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\LibADO.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\LibADO.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Azure.Core.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Azure.Identity.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.Buffers.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.ClientModel.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.Memory.Data.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.Memory.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.Security.AccessControl.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.Text.Json.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.ValueTuple.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Azure.Core.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Azure.Identity.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.Buffers.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.ClientModel.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.Memory.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.Memory.Data.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.Security.AccessControl.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.Text.Json.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\System.ValueTuple.xml
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\obj\Debug\LibADO.csproj.Up2Date
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\obj\Debug\LibADO.dll
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\obj\Debug\LibADO.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\teste\WebDev.NET\LibADO\LibADO\bin\Debug\LibDB.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\LibADO.dll.config
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\LibADO.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\LibADO.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Azure.Core.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Azure.Identity.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\LibDB.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.Buffers.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.ClientModel.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.Memory.Data.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.Memory.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.Security.AccessControl.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.Text.Json.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.ValueTuple.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Azure.Core.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Azure.Identity.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.Buffers.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.ClientModel.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.Memory.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.Memory.Data.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.Security.AccessControl.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.Text.Json.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\System.ValueTuple.xml
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\obj\Debug\LibADO.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\obj\Debug\LibADO.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\obj\Debug\LibADO.csproj.Up2Date
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\obj\Debug\LibADO.dll
+C:\Users\leand\OneDrive\Área de Trabalho\GitProjeto\WebDev.NET\LibADO\LibADO\obj\Debug\LibADO.pdb
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\LibADO.dll.config
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\LibADO.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\LibADO.pdb
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Azure.Core.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Azure.Identity.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.Buffers.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.ClientModel.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.Memory.Data.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.Memory.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.Security.AccessControl.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.Text.Json.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.ValueTuple.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Azure.Core.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Azure.Identity.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.Buffers.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.ClientModel.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.Memory.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.Memory.Data.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.Security.AccessControl.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.Text.Json.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\System.ValueTuple.xml
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\obj\Debug\LibADO.csproj.AssemblyReference.cache
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\obj\Debug\LibADO.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\obj\Debug\LibADO.csproj.Up2Date
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\obj\Debug\LibADO.dll
+C:\Users\rafae\Desktop\UpSkill\M3\Projecto\WebDev.NET\4_MPA\LibADO\LibADO\obj\Debug\LibADO.pdb

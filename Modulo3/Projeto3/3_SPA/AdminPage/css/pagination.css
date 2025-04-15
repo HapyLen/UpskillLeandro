@@ -1,0 +1,22 @@
+.div--result-list-pagination {
+	display: flex;
+	justify-content: center;
+}
+
+.div--result-list-pagination a {
+	border: 1px solid #ddd;
+	text-decoration: none;
+	padding: 8px 16px;
+	margin: 0 2px;
+	color: black;
+	transition: background-color 0.3s;
+}
+
+.div--result-list-pagination a.active {
+	color: white;
+	background-color: #076785;
+}
+
+.div--result-list-pagination a:hover:not(.active) {
+	background-color: #ddd;
+}

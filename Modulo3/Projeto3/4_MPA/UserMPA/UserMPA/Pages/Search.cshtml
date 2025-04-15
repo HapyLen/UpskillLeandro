@@ -1,0 +1,100 @@
+﻿@page
+@model SearchModel
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+@{
+    var nomeUsuario = HttpContextAccessor.HttpContext?.Session.GetString("NomeUsuario");
+}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biblioteca Virtual</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Biblioteca Virtual</h1>
+    </header>
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger">
+            @TempData["ErrorMessage"]
+        </div>
+    }
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["SuccessMessage"]
+        </div>
+    }
+
+    <div id="search">
+        <form method="get">
+            <input type="text" name="obra" placeholder="Buscar obra ou núcleo..." value="@Model.Request.Query["obra"]">
+            <button type="submit">Pesquisar</button>
+        </form>
+
+        <form method="get">
+            <input type="hidden" name="exibirCategorias" value="true">
+            <button type="submit">Mostrar Categorias</button>
+        </form>
+    </div>
+    @if (Model.Request.Query.ContainsKey("exibirCategorias"))
+    {
+        <div id="categorias">
+            <h3>Filtrar por Categoria:</h3>
+            @foreach (var categoria in Model.Categorias)
+            {
+                <form method="get">
+                    <input type="hidden" name="genre" value="@categoria">
+                    <button type="submit">@categoria</button>
+                </form>
+            }
+        </div>
+    }
+
+    <section id="lista-livros">
+        <h2>Livros Disponíveis</h2>
+
+        <div id="book-container">
+            <div class="cartas-container">
+                @foreach (var obra in Model.Obras)
+                {
+                    <div class="card">
+                        <img src="@obra["image_path"]" alt="@obra["nome_obra"]">
+                        <div class="info-card">
+                            <h4>@obra["nome_obra"]</h4>
+                            <form method="get" asp-page="/Requisitar">
+                                <input type="hidden" name="pk_obra" value="@obra["pk_obra"]?.ToString()" />
+                                <button type="submit" class="btn-requisitar">Requisitar</button>
+                            </form>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+
+        <div class="pagination">
+            @if (Model.PaginaAtual > 1)
+            {
+                <a href="?obra=@Model.Request.Query["obra"]&genre=@Model.Request.Query["genre"]&pagina=@(Model.PaginaAtual - 1)" class="btn-paginacao">Anterior</a>
+            }
+
+            <span>Página @Model.PaginaAtual de @Model.TotalPaginas</span>
+
+            @if (Model.PaginaAtual < Model.TotalPaginas)
+            {
+                <a href="?obra=@Model.Request.Query["obra"]&genre=@Model.Request.Query["genre"]&pagina=@(Model.PaginaAtual + 1)" class="btn-paginacao">Próxima</a>
+            }
+        </div>
+
+    </section>
+</body>
+</html>
+
+
+
